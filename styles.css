@@ -1,0 +1,72 @@
+/*Stylesheet*/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.roja {
+    color: hsl(30, 100%, 40%)
+}
+
+.verde {
+    text-align: center;
+   color: hsl(70, 100%, 40%)
+}
+
+.salsa {
+    height: 500px; 
+    width: 600px;
+}
+
+.steak {
+    color: rgb(255, 113, 51);
+}
+
+p.manhattan {
+    text-align: center;
+    color: rgb(255, 113, 51);
+}
+
+div,.container {
+    text-align: center;
+}
+
+ul,ol,.ulist {
+    display: inline-block;
+    text-align: left;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+h5 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 800;
+}
+
+body {
+    font-family: 'Times New Roman', 'Arial', serif;
+    font-size: 24px;
+    background-color: #ffffcc;
+}
+
+
+img {
+    height: auto;
+    width: 500px;
+    
+   
+}
+
